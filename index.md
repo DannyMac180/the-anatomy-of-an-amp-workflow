@@ -1,5 +1,3 @@
-# The Anatomy of an Amp Workflow
-
 <style>
 .workflow{
   display:flex;
